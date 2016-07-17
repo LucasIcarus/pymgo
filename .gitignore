@@ -1,0 +1,3 @@
+*.pyc
+.idea
+local_config.py
