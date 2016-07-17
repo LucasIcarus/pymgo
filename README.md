@@ -1,6 +1,6 @@
 ![](http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/092015/pokemongo.png?itok=LERVo0L9)  
 # pymgo - 快成为神奇宝贝大师！
-因为是私密项目, 所以想到什么加什么.主要信息来源都是reddit的讨论版：https://www.reddit.com/r/pokemongodev/
+因为是私密项目, 所以想到什么加什么.主要信息来源都是reddit的讨论版：https://www.reddit.com/r/pokemongodev/.  
 
 ## 服务器通信
 1. 数据加密  
@@ -18,7 +18,8 @@
 
 ## 开发
 1. 群众需求  
-  * 最大的需求应该是显示附近的小精灵刷新.
+  * 最大的需求应该是显示附近的小精灵刷新, 下图是可视化地图的效果（仅本地使用）.
+  ![](https://raw.githubusercontent.com/AHAAAAAAA/PokemonGo-Map/master/static/Screenshot%202016-07-16%2021.32.10.png)
 2. 社区进度
   * 大量外国开发者每天都在快速迭代新的工具, 所以我们的项目也是尽量敏捷开发
   * 目前社区进度已经到了可视化地图的实现, 但是需要主动下载repo跑flask服务器.
